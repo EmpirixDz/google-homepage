@@ -1,2 +1,3 @@
 # google-homepage
-readme
+Google homepage
+http://www.theodinproject.com
